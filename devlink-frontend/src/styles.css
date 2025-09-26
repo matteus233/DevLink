@@ -1,0 +1,11 @@
+body {
+  background: radial-gradient(circle at 20% 20%, #10252a, #111111 60%);
+  overflow: hidden;
+}
+
+.Globe {
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 53%;
+  margin-top: -5%;
+}
